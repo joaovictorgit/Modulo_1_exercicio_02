@@ -1,0 +1,36 @@
+.camp_text {
+    margin: 10px;
+    width: 20rem;
+    height: 2rem;
+}
+
+.information {
+    background: #6495ED;
+    width: 45rem;
+    height: 9rem;
+    margin: auto;
+    list-style-type: none;
+    border-radius: 10px;
+}
+
+.inputs1 {
+    font-size: 12px;
+    color: #6495ED;
+}
+
+.inputs {
+    margin: 5px;
+    text-align: left;
+}
+
+.buttonSend{
+    background: #92b7fd;
+    border: none;
+    width: 5rem;
+    height: 2rem;
+    border-radius: 20rem;   
+}
+
+.buttonSend:hover{
+    cursor: pointer;
+}
