@@ -40,7 +40,7 @@ export default class Forms extends Component{
     render(){
         return(
            <div className="forms">
-                <h1>Pesquisar altores</h1>
+                <h1>Pesquisar autores</h1>
                 <input type="text" onChange={(event) => {
                     this.setState({value:event.target.value})
                 }} className="camp_text"></input>
